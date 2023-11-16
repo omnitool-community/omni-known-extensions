@@ -35,6 +35,9 @@ known_extensions:
   - title: TLDraw (Beta)
     id: omni-extension-tldraw
     url: https://raw.githubusercontent.com/omnitool-community/omni-extension-tldraw/master/extension.yaml
+  - title: Puppeteer Web Tool (Beta)
+    id: omni-extension-puppeteer
+    url: https://raw.githubusercontent.com/omnitool-community/omni-extension-puppeteer/main/extension.yaml
 
 
 in_development:

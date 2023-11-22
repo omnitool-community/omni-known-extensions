@@ -15,7 +15,7 @@ known_extensions:
     id: omni-extension-plyr
     url: https://raw.githubusercontent.com/omnitool-community/omni-extension-plyr/master/extension.yaml
   - title: PDF to Document Conversion
-    id: omni-extension-pdftodoc
+    id: omni-extension-pdf2doc
     url: https://raw.githubusercontent.com/omnitool-community/omni-extension-pdf2doc/main/extension.yaml
   - title: Wavacity Audio Editor
     id: omni-extension-wavacity
